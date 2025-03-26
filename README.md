@@ -1,2 +1,2 @@
-# tabnews
-Um projeto para praticar programação.
+# Monitoramento
+Projeto de monitoramento em python.
